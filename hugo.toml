@@ -1,0 +1,15 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'hugo-theme-dream-master'
+lightTheme = "emerald"
+darkTheme = "forest"
+[params]
+  # 你的头像
+  avatar = "/img/avatar.png" 
+  # 你的名字
+  author = "烘焙小能手"
+  # 一句简短的座右铭
+  motto = "RUA"
+  # 具体的自我介绍（支持 Markdown）
+  about = "这里可以写长一点的介绍，比如：我是从2024年开始学习法式西点的..."
